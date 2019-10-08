@@ -1,0 +1,14 @@
+{
+  "name": "@c3reve/node-log",
+  "version": "0.1.0",
+  "description": "",
+  "main": "node-log.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "c3reve",
+  "license": "MIT",
+  "dependencies": {
+    "log4js": "^5.2.0"
+  }
+}
